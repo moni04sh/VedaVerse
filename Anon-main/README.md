@@ -28,15 +28,14 @@ Upload your own PDFs to unlock all these features! With Academic AI Suite, you�
 ## 🚀 Getting Started
 
 ### 🔗 Resources
-## 📺 Demo Video
-- [Google Drive Folder](https://drive.google.com/drive/folders/1dGYyOKPZSTcMYLHpUr57heVoE06tp20B?usp=drive_link) for additional files and resources.
+
 
 
 Clone this repo:
 
 ```bash
-git clone https://github.com/your-username/academic-ai-suite.git  # Use the GitHub link above to access the repository.
-cd academic-ai-suite
+git clone https://github.com/moni04sh/VedaVerse.git  # Use the GitHub link above to access the repository.
+cd VedaVerse
 ```
 
 Install dependencies:
